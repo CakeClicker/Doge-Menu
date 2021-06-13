@@ -1,0 +1,48 @@
+﻿  stdafx.cpp
+c:\users\lsupe\desktop\nano 42\source\hooking.h(48): warning C4244: "=": Konvertierung von "uintptr_t" in "DWORD", möglicher Datenverlust
+c:\users\lsupe\desktop\nano 42\source\hooking.h(58): warning C4244: "return": Konvertierung von "uintptr_t" in "uint32_t", möglicher Datenverlust
+c:\users\lsupe\desktop\nano 42\source\hooking.h(71): warning C4244: "=": Konvertierung von "uintptr_t" in "DWORD", möglicher Datenverlust
+c:\users\lsupe\desktop\nano 42\source\gui.h(20): warning C4091: "extern ": Ignoriert auf der linken Seite von "SubMenus", wenn keine Variable deklariert wurde
+c:\users\lsupe\desktop\nano 42\source\gui.h(24): warning C4091: "typedef ": Ignoriert auf der linken Seite von "VECTOR2", wenn keine Variable deklariert wurde
+c:\users\lsupe\desktop\nano 42\source\gui.h(27): warning C4091: "typedef ": Ignoriert auf der linken Seite von "VECTOR2_2", wenn keine Variable deklariert wurde
+c:\users\lsupe\desktop\nano 42\source\gui.h(30): warning C4091: "typedef ": Ignoriert auf der linken Seite von "RGBAF", wenn keine Variable deklariert wurde
+c:\users\lsupe\desktop\nano 42\source\gui.h(33): warning C4091: "typedef ": Ignoriert auf der linken Seite von "RGBA", wenn keine Variable deklariert wurde
+c:\users\lsupe\desktop\nano 42\source\gui.h(36): warning C4091: "typedef ": Ignoriert auf der linken Seite von "RGB", wenn keine Variable deklariert wurde
+  CrossMapping.cpp
+  ExePath.cpp
+  Functions.cpp
+c:\users\lsupe\desktop\nano 42\source\functions.cpp(43): warning C4305: "Argument": Verkürzung von "double" in "float"
+c:\users\lsupe\desktop\nano 42\source\functions.cpp(207): warning C4244: "return": Konvertierung von "double" in "int", möglicher Datenverlust
+  Hooking.cpp
+  InputHook.cpp
+  keyboard.cpp
+  Log.cpp
+  Memory.cpp
+  GUI.cpp
+c:\users\lsupe\desktop\nano 42\source\gui.cpp(475): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+c:\users\lsupe\desktop\nano 42\source\gui.cpp(476): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+c:\users\lsupe\desktop\nano 42\source\gui.cpp(477): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+  MenuConfig.cpp
+  NativeInvoker.cpp
+  Menu.cpp
+  types.cpp
+  Code wird generiert...
+  dllmain.cpp
+c:\users\lsupe\desktop\nano 42\source\hooking.h(48): warning C4244: "=": Konvertierung von "uintptr_t" in "DWORD", möglicher Datenverlust
+c:\users\lsupe\desktop\nano 42\source\hooking.h(58): warning C4244: "return": Konvertierung von "uintptr_t" in "uint32_t", möglicher Datenverlust
+c:\users\lsupe\desktop\nano 42\source\hooking.h(71): warning C4244: "=": Konvertierung von "uintptr_t" in "DWORD", möglicher Datenverlust
+c:\users\lsupe\desktop\nano 42\source\gui.h(20): warning C4091: "extern ": Ignoriert auf der linken Seite von "SubMenus", wenn keine Variable deklariert wurde
+c:\users\lsupe\desktop\nano 42\source\gui.h(24): warning C4091: "typedef ": Ignoriert auf der linken Seite von "VECTOR2", wenn keine Variable deklariert wurde
+c:\users\lsupe\desktop\nano 42\source\gui.h(27): warning C4091: "typedef ": Ignoriert auf der linken Seite von "VECTOR2_2", wenn keine Variable deklariert wurde
+c:\users\lsupe\desktop\nano 42\source\gui.h(30): warning C4091: "typedef ": Ignoriert auf der linken Seite von "RGBAF", wenn keine Variable deklariert wurde
+c:\users\lsupe\desktop\nano 42\source\gui.h(33): warning C4091: "typedef ": Ignoriert auf der linken Seite von "RGBA", wenn keine Variable deklariert wurde
+c:\users\lsupe\desktop\nano 42\source\gui.h(36): warning C4091: "typedef ": Ignoriert auf der linken Seite von "RGB", wenn keine Variable deklariert wurde
+c:\users\lsupe\desktop\nano 42\source\dllmain.cpp(15): warning C4129: " ": nicht erkannte Folge von Escapesequenz
+c:\users\lsupe\desktop\nano 42\source\dllmain.cpp(16): warning C4129: " ": nicht erkannte Folge von Escapesequenz
+c:\users\lsupe\desktop\nano 42\source\dllmain.cpp(17): warning C4129: "_": nicht erkannte Folge von Escapesequenz
+c:\users\lsupe\desktop\nano 42\source\dllmain.cpp(18): warning C4129: " ": nicht erkannte Folge von Escapesequenz
+c:\users\lsupe\desktop\nano 42\source\dllmain.cpp(19): warning C4129: "_": nicht erkannte Folge von Escapesequenz
+c:\users\lsupe\desktop\nano 42\source\dllmain.cpp(21): warning C4129: "$": nicht erkannte Folge von Escapesequenz
+c:\users\lsupe\desktop\nano 42\source\dllmain.cpp(21): warning C4129: " ": nicht erkannte Folge von Escapesequenz
+c:\users\lsupe\desktop\nano 42\source\dllmain.cpp(22): warning C4129: "_": nicht erkannte Folge von Escapesequenz
+  SudoMod.vcxproj -> C:\Users\lsupe\Desktop\Nano 42\Build\Debug\Nano 42.dll
